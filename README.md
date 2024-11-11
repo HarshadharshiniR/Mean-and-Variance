@@ -53,10 +53,14 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Output : 
-1 2 3 4 6 8 1 3 6 0 4 5 6 7 8 
-The Mean arrival rate is 4.267 
+1 2 3 4 6 8 1 3 6 0 4 5 6 7 8
+
+The Mean arrival rate is 4.267
+
 The Variance of arrival from feeder is 6.196 
-The Standard deviation of arrival from feeder is 2.489 
+
+The Standard deviation of arrival from feeder is 2.489
+
 
 
 # Results :
